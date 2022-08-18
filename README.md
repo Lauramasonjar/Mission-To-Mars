@@ -34,11 +34,11 @@ Software:
 - Scrape Full-Resolution Mars Hemisphere Images and Titles
 - Update the Web App with Mars Hemisphere Images and Titles
 
-IMAGE HERE
 
-- Add Bootstrap 3 Components
+Add Bootstrap 3 Components
  - Styling the "Scrape New Data" button
  - Customizing the facts table.
- - Adding the hemisphere images as thumbnails.
 
-IMAGE HERE
+![Mission-To-Mars](https://github.com/Lauramasonjar/Mission-To-Mars/blob/main/Images/Mars_Scrape_1.png)
+![Mission_To_Mars](https://github.com/Lauramasonjar/Mission-To-Mars/blob/main/Images/Mars_Scrape_2.png)
+![Mission_To_Mars](https://github.com/Lauramasonjar/Mission-To-Mars/blob/main/Images/Mars_Scrape_3.png)
